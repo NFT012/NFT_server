@@ -68,9 +68,18 @@ https://youtu.be/0U06oUcMEAU
 
 Install project with npm
 
-for server : 
+## Install Dependencies
+
 ```bash
 npm install
+```
+
+## Run App
+
+```bash
+# To Run
 npm start
+
+```
 ```
     
